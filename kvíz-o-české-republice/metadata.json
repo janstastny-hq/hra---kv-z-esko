@@ -1,0 +1,6 @@
+{
+  "name": "Kvíz o České republice",
+  "description": "Znalostní hra o České republice s interaktivní mapou krajů pro více hráčů.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
